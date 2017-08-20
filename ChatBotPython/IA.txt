@@ -1,0 +1,6 @@
+Aprendizaje: Crear una base de conocimiento
+Interacción(Respuesta: ej. Usuario- ¿Cómo te llamas?  IA- Soy *****)
+Interacción(Pregunta y aprende: ej. ¿Podrías enseñarme saludos?)
+Iniciativa (Guía conversación: ej. ¿En que universidad estudias?, ¿Te gustá tu carrera?)
+Uso de conocimiento para estructurar: Interrelacionar el conocimiento entre categorías para versatlidad y dinamismo
+Capacidad de tener gustos

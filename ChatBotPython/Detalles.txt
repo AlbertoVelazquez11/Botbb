@@ -1,0 +1,45 @@
+ChatBot debe contener varios diccionarios con diferentes propositos;
+Diccionarios de base de conocimiento:
+INFORMACION BASICA/PROPIA
+SALUDOS
+DESPEDIDAS
+HISTORIAS
+CHISTES
+ETC.
+
+Diccionario de relaciones y palabras asociativas;
+RELACION OBJETO ADJETIVO
+
+Diccionario de clasificaciones, sustantivos, adjetivo y verbos;
+SUSTANTIVOS
+ADJETIVOS
+VERBOS
+CLASIFICACIONES
+
+Diccionario de realacionar preguntas para dar una respuesta;
+PREGUNTAS QUE PUEDE RESPONDER
+
+Diccionario de preguntas para aprender nuevas cosas;
+PREGUNTAS QUE PUEDE HACER
+
+Diccionario de preguntas para seguir una conversacion y aprender de los usuarios;
+PREGUNTAS INTERACTIVAS Y CON HILO DE CONVERSACION
+RECUERDOS
+
+======================================================================
+
+Diccionario de improvisacion (ocurre cuando no sabe que contestar)
+SIN_ENTENDER
+IMPROVISACION
+
+
+*********Seguir temas (responder preguntas referente al tema)*********
+
+NOTAS:
+*Cuando se hace la comparacion de las palabras que escribe, en los diccionarios
+no busca que la pabra haga match 100%, si no que exista dentro de la palabra.
+EJ. me { cuentaME , diME }, no { NOta , vamoNOs }
+== Agregar diccionario para palabras de excepcion ==
+*Es necesario identificar el tipo de preguntas que recibe para poder determinar
+una respuesta adecuada,asociar el pronombre interrogativo con la palabra clave
+== Agregar diccionario para pronombres interrogativos ==
